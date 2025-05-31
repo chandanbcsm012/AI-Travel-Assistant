@@ -63,7 +63,7 @@ python -m venv venv
 # macOS/Linux:
 source venv/bin/activate
 # Windows:
-.env\Scriptsctivate
+.\venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -125,6 +125,22 @@ requests
 
 - Download your trip plan in **Markdown** or **JSON**
 - Click **Create New Plan** to start over
+
+---
+
+## 🖼️ App Screenshots
+
+| Home | Itinerary | Experiences |
+|------|-----------|-------------|
+| ![Home](./home_page.png) | ![Itinerary](./Itinerary.png) | ![Experiences](./Experiences.png) |
+
+| Accommodations | Budget & Estimate | Safety |
+|----------------|-------------------|--------|
+| ![Accommodations](./Accommodations.png) | ![Budget](./Budget_and_Estimate.png) | ![Safety](./Safety.png) |
+
+| Trip Planning |
+|---------------|
+| ![Trip Planning](./trip_planning.png) |
 
 ---
 
