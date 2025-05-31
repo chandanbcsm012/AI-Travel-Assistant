@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit specific
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.env.*
+
+# Ollama logs and models (if any local dumps)
+ollama.log
+ollama_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode
+.vscode/
+
+# macOS and Linux
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# MyPy, Pyre, Pytype
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage/
+
+# Test result logs
+test-results/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# JSON output
+*.json
+travel_plan.json
