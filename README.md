@@ -130,17 +130,32 @@ requests
 
 ## 🖼️ App Screenshots
 
-| Home | Itinerary | Experiences |
-|------|-----------|-------------|
-| ![Home](./home_page.png) | ![Itinerary](./Itinerary.png) | ![Experiences](./Experiences.png) |
-
-| Accommodations | Budget & Estimate | Safety |
-|----------------|-------------------|--------|
-| ![Accommodations](./Accommodations.png) | ![Budget](./Budget_and_Estimate.png) | ![Safety](./Safety.png) |
-
+| Home |
+|------|
+| ![Home](./home_page.png) |
 | Trip Planning |
 |---------------|
 | ![Trip Planning](./trip_planning.png) |
+
+### 📅 Itinerary
+
+![📅 Itinerary](Itinerary.png)
+
+### 🎭 Experiences
+
+![🎭 Experiences](Experiences.png)
+
+### 🏨 Accommodations
+
+![🏨 Accommodations](Accommodations.png)
+
+### ⚠️ Safety
+
+![⚠️ Safety](Safety.png)
+
+### 💰 Budget & Packing
+
+![💰 Budget & Packing](Budget_and_Estimate.png)
 
 ---
 
